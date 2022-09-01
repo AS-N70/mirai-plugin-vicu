@@ -1,0 +1,1 @@
+rootProject.name = "ASN70-mirai-plugin-vicu"
